@@ -1,0 +1,3 @@
+*.pyc
+Client/config.py
+Client/*.pyc
